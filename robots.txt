@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://instagram-freefollowersbot.github.io/free-1k-followers/sitemap.xml
